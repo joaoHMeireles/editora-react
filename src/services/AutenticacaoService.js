@@ -1,6 +1,5 @@
 import axios from "axios";
-
-const url = "https://localhost:8443/login"
+const url = "http://localhost:8443/login"
 
 class AutenticacaoService {
 
